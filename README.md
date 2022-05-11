@@ -1,2 +1,2 @@
-# Ola Mundo
- Curso git github
+# Olá, Mundo!
+ Curso Git GitHub
